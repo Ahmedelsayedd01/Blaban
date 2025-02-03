@@ -51,7 +51,7 @@ const TaxesPage = ({ refetch, setUpdate }) => {
 
        // const handleChangeActive = async (id, name, status) => {
        //        const response = await changeState(
-       //               `${ apiUrl } / admin / translation / active / ${ id }`,
+       //               `${apiUrl} / admin / translation / active / ${ id }`,
        //               `${ name } Changed Active.`,
        //               { active: status } // Pass status as an object if changeState expects an object
        //        );
